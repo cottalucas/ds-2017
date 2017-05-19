@@ -12,6 +12,7 @@ loglik = function(param){
   mu = param[1]
   sigma = param[2]
   ll = -0.5*N*log(2*pi) - N*log(sigma) - sum(0.5*(md - mu)^2/sigma^2)
+  # ll = sum(dnorm(md, mean=mu, sd=sigma, log=TRUE))
   ll
 }
 
