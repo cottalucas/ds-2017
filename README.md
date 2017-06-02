@@ -35,7 +35,8 @@ Machine Learning</br>
 	Gradient Descent: http://www.cs.ucc.ie/~dgb/courses/ai2/04-gradient-descent.pdf</br>
 LOGIT, PROBIT in R: http://www.princeton.edu/~otorres/LogitR101.pdf</br>
 	Plotting Learning Curves: http://scikit-learn.org/stable/auto_examples/model_selection/plot_learning_curve.html</br>
-	Linear Discriminant Analysis: http://sebastianraschka.com/Articles/2014_python_lda.html</br></br>
+	Linear Discriminant Analysis: http://sebastianraschka.com/Articles/2014_python_lda.html</br>
+	Classification/Regression Tree: http://www.dummies.com/programming/big-data/data-science/how-to-create-classification-and-regression-trees-in-python-for-data-science/</br></br>
 	
 LATEX</br>
 	Tutorial: http://kesdev.com/you-got-latex-in-my-markdown/</br>
