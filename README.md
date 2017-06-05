@@ -36,7 +36,13 @@ Machine Learning</br>
 LOGIT, PROBIT in R: http://www.princeton.edu/~otorres/LogitR101.pdf</br>
 	Plotting Learning Curves: http://scikit-learn.org/stable/auto_examples/model_selection/plot_learning_curve.html</br>
 	Linear Discriminant Analysis: http://sebastianraschka.com/Articles/2014_python_lda.html</br>
-	Classification/Regression Tree: http://www.dummies.com/programming/big-data/data-science/how-to-create-classification-and-regression-trees-in-python-for-data-science/</br></br>
+	Classification/Regression Tree: http://www.dummies.com/programming/big-data/data-science/how-to-create-classification-and-regression-trees-in-python-for-data-science/</br>
+	Decision Tree - Priting: https://stackoverflow.com/questions/25274673/is-it-possible-to-print-the-decision-tree-in-scikit-learn </br>
+	Random Forest: http://blog.yhat.com/posts/random-forests-in-python.html </br>
+	Gradient Boosting Example: https://jessesw.com/XG-Boost/</br>
+	Gradient Boosting Explained: https://en.wikipedia.org/wiki/Gradient_boosting</br>
+	James Stein Estimator(Double Shrinkage Estimator): http://chris-said.io/2017/05/03/empirical-bayes-for-multiple-sample-sizes/ </br>
+	</br>
 	
 LATEX</br>
 	Tutorial: http://kesdev.com/you-got-latex-in-my-markdown/</br>
