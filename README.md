@@ -42,6 +42,7 @@ LOGIT, PROBIT in R: http://www.princeton.edu/~otorres/LogitR101.pdf</br>
 	Gradient Boosting Example: https://jessesw.com/XG-Boost/</br>
 	Gradient Boosting Explained: https://en.wikipedia.org/wiki/Gradient_boosting</br>
 	James Stein Estimator(Double Shrinkage Estimator): http://chris-said.io/2017/05/03/empirical-bayes-for-multiple-sample-sizes/ </br>
+	KNN: https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/ </br>
 	</br>
 	
 LATEX</br>
