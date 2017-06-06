@@ -43,6 +43,8 @@ LOGIT, PROBIT in R: http://www.princeton.edu/~otorres/LogitR101.pdf</br>
 	Gradient Boosting Explained: https://en.wikipedia.org/wiki/Gradient_boosting</br>
 	James Stein Estimator(Double Shrinkage Estimator): http://chris-said.io/2017/05/03/empirical-bayes-for-multiple-sample-sizes/ </br>
 	KNN: https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/ </br>
+	K-Means:http://web.engr.oregonstate.edu/~xfern/classes/cs534/notes/Unsupervised-model-11.pdf</br>
+	Hierarchical Cluestering: https://joernhees.de/blog/2015/08/26/scipy-hierarchical-clustering-and-dendrogram-tutorial/ </br>
 	</br>
 	
 LATEX</br>
@@ -78,7 +80,8 @@ Linear Algebra</br>
 	Matrix Differentiation: http://www.janmagnus.nl/misc/mdc2007-3rdedition</br></br>
 
 Bonus</br>
-	Relevant paper: http://datacolada.org/wp-content/uploads/2014/03/3433-Gelman-Stern-American-Statistician-2006-The-difference-between-significant-and-not-significant-is-not-statistically-signiicant.pdf</br></br>
+	Relevant paper: http://datacolada.org/wp-content/uploads/2014/03/3433-Gelman-Stern-American-Statistician-2006-The-difference-between-significant-and-not-significant-is-not-statistically-signiicant.pdf</br>
+	NIPS Paper: https://www.kaggle.com/dschniertshauer/nips-papers-visualized-with-nmf-and-t-sne</br>
 
 
 
