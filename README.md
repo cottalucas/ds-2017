@@ -17,7 +17,8 @@ Python</br>
 	Top 15 libraries for DS: https://medium.com/activewizards-machine-learning-company/top-15-python-libraries-for-data-science-in-in-2017-ab61b4f9b4a7</br>
 	NLP library: https://spacy.io</br>
 	Py2 vs Py3: http://www.python3statement.org</br>
-	Client for Google Maps: https://googlemaps.github.io/google-maps-services-python/docs/2.4.6/</br></br>
+	Client for Google Maps: https://googlemaps.github.io/google-maps-services-python/docs/2.4.6/</br>
+	Format: https://pyformat.info/ </br></br>
 
 Pandas</br>
 	Dataframes: https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python</br></br>
