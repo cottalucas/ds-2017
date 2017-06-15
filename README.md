@@ -79,6 +79,13 @@ Linear Algebra</br>
 	Eigenvectors and Eigenvalues: https://georgemdallas.wordpress.com/2013/10/30/principal-component-analysis-4-dummies-eigenvectors-eigenvalues-and-dimension-reduction/</br>
 	Eigenvectors and Eigenvalues 2: http://setosa.io/ev/eigenvectors-and-eigenvalues/</br>
 	Matrix Differentiation: http://www.janmagnus.nl/misc/mdc2007-3rdedition</br></br>
+	
+Data Visualization</br>
+	Tuftes Principle: http://classes.engr.oregonstate.edu/eecs/spring2015/cs419-001/Slides/tufteDesign.pdf</br>
+	Color Brewer: http://colorbrewer2.org/ </br>
+	Font Choice: https://fonts.google.com </br>
+	Font Series: http://www.impallari.com/</br>
+</br>
 
 Bonus</br>
 	Relevant paper: http://datacolada.org/wp-content/uploads/2014/03/3433-Gelman-Stern-American-Statistician-2006-The-difference-between-significant-and-not-significant-is-not-statistically-signiicant.pdf</br>
