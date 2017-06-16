@@ -85,6 +85,8 @@ Data Visualization</br>
 	Color Brewer: http://colorbrewer2.org/ </br>
 	Font Choice: https://fonts.google.com </br>
 	Font Series: http://www.impallari.com/</br>
+	D3: http://alignedleft.com/tutorials/d3/ </br>
+	Bokeh: https://www.analyticsvidhya.com/blog/2015/08/interactive-data-visualization-library-python-bokeh/ <br>
 </br>
 
 Bonus</br>
