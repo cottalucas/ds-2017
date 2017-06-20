@@ -79,7 +79,12 @@ Linear Algebra</br>
 	Eigenvectors and Eigenvalues: https://georgemdallas.wordpress.com/2013/10/30/principal-component-analysis-4-dummies-eigenvectors-eigenvalues-and-dimension-reduction/</br>
 	Eigenvectors and Eigenvalues 2: http://setosa.io/ev/eigenvectors-and-eigenvalues/</br>
 	Matrix Differentiation: http://www.janmagnus.nl/misc/mdc2007-3rdedition</br></br>
-	
+
+Natural Language Processing</br>
+	Processing Raw Text w Python: http://www.nltk.org/book/ch03.html</br>
+	Text processing w Unix: https://www.cs.upc.edu/~padro/Unixforpoets.pdf</br></br>
+
+
 Data Visualization</br>
 	Tuftes Principle: http://classes.engr.oregonstate.edu/eecs/spring2015/cs419-001/Slides/tufteDesign.pdf</br>
 	Color Brewer: http://colorbrewer2.org/ </br>
