@@ -90,6 +90,7 @@ Natural Language Processing</br>
 	Sequence Model: http://pytorch.org/tutorials/beginner/nlp/sequence_models_tutorial.html</br>
 	Ultimate Guide: https://monkeylearn.com/blog/the-definitive-guide-to-natural-language-processing/</br>
 	Confusion Matrix: http://www.nltk.org/_modules/nltk/metrics/confusionmatrix.html</br>
+	Pipeline and Feature Unions: http://zacstewart.com/2014/08/05/pipelines-of-featureunions-of-pipelines.html</br>
 	</br>
 
 
