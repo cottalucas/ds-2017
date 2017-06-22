@@ -82,7 +82,15 @@ Linear Algebra</br>
 
 Natural Language Processing</br>
 	Processing Raw Text w Python: http://www.nltk.org/book/ch03.html</br>
-	Text processing w Unix: https://www.cs.upc.edu/~padro/Unixforpoets.pdf</br></br>
+	Text processing w Unix: https://www.cs.upc.edu/~padro/Unixforpoets.pdf</br>
+	Building Language Models: http://nlpforhackers.io/language-models/</br>
+	Text Classification: http://nlpforhackers.io/text-classification/</br>
+	Use of CRF in NLTK: https://stackoverflow.com/questions/12501165/how-may-i-use-crf-in-nltk</br>
+	Markov Model in NLTK: https://gist.github.com/blumonkey/007955ec2f67119e0909</br>
+	Sequence Model: http://pytorch.org/tutorials/beginner/nlp/sequence_models_tutorial.html</br>
+	Ultimate Guide: https://monkeylearn.com/blog/the-definitive-guide-to-natural-language-processing/</br>
+	Confusion Matrix: http://www.nltk.org/_modules/nltk/metrics/confusionmatrix.html</br>
+	</br>
 
 
 Data Visualization</br>
