@@ -46,6 +46,7 @@ LOGIT, PROBIT in R: http://www.princeton.edu/~otorres/LogitR101.pdf</br>
 	KNN: https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/ </br>
 	K-Means:http://web.engr.oregonstate.edu/~xfern/classes/cs534/notes/Unsupervised-model-11.pdf</br>
 	Hierarchical Cluestering: https://joernhees.de/blog/2015/08/26/scipy-hierarchical-clustering-and-dendrogram-tutorial/ </br>
+	Logistic + Softmax Regression: https://houxianxu.github.io/2015/04/23/logistic-softmax-regression/</br>
 	</br>
 	
 LATEX</br>
