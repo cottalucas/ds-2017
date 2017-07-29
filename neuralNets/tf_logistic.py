@@ -109,4 +109,3 @@ with tf.Session() as sess:
 
     # For monitoring purposes
     file_writer = tf.summary.FileWriter('./tensorflow_summaries', sess.graph)
-
